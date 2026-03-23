@@ -1,1 +1,0 @@
-# C10T1---Integraci-n-de-Funciones-y-Arreglos-en-Soluciones-de-Problemas-Reales
